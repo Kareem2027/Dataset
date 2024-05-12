@@ -1,57 +1,4 @@
  Learnability Criterion
-eFront application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time
-Total 
-Total in 
-Seconds 
-Average
-Start 
-Time 
-End 
-Time
-Total 
-Total in 
-Seconds 
-Average
-Start 
-Time 
-End 
-Time
-Total 
-Total in 
-Seconds 
-Average
-Start
-Time 
-End 
-Time
-Total 
-Total in 
-Seconds 
-Average
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS MM:SS:MSMM:SS:MS Seconds Seconds
 User-1
 00:40:2606:51:2706:11:01 371.001
 258.289
@@ -98,59 +45,9 @@ User-4
 00:07:1901:41:2401:34:05 94.005 00:10:13 01:04:00 00:53:47 53.047 00:06:13 02:27:25 02:21:12 141.012 00:07:09 01:20:26 01:13:17 73.017
 153.783 58.779 148.900 89.030
 217
+
 Moodle application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
+
 User-1
 00:24:10 02:49:14 02:25:04 145.004
 125.527
@@ -202,58 +99,6 @@ User-4
 123.648 58.154 163.785 95.224
 218
 Claronline application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
 User-1
 00:05:20 02:04:03 01:58:43 118.043
 100.041
@@ -304,58 +149,6 @@ User-4
 101.097 54.603 129.157 57.780
 219
 Forma application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-MM:SS:
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
 User-1
 00:04:15 02:45:18 02:41:03 161.003
 156.766
@@ -407,50 +200,6 @@ User-4
 153.521 67.277 137.786 62.342
 220
 ATutor application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
 User-1
 00:03:12 02:32:27 02:29:15 191.015
 164.5215
@@ -501,50 +250,6 @@ User-4
 149.400 67.187 129.548 64.645
 221
 Decebo application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
 User-1
 00:05:14 02:54:12 02:48:58 168.058
 142.2695
@@ -595,52 +300,8 @@ User-4
 00:03:56 01:45:28 01:41:32 101.032 00:06:26 01:17:51 01:11:25 71.025 00:12:13 02:11:08 01:58:55 118.055 00:04:05 00:58:17 00:54:12 54.012
 143.710 81.962 130.539 63.558
 222
-Section-4: Memorability Criterion
-eFront application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Averag
-e
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
+
+Memorability Criterion
 User-1
 00:05:04 01:49:01 01:43:57 103.057
 88.287
@@ -691,48 +352,6 @@ User-4
 88.028 43.652 113.907 59.029
 223
 Moodle application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds 
-Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
 User-1
 00:05:03 01:54:19 01:49:16 109.016
 95.023
@@ -780,47 +399,6 @@ User-4
 85.775 45.977 113.463 55.034
 224
 Claronline application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
 User-1
 00:04:03 01:26:28 01:22:25 82.025
 73.272
@@ -868,48 +446,6 @@ User-4
 68.215 36.517 96.591 56.214
 225
 Forma application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
 User-1
 00:05:02 01:55:30 01:50:28 110.028
 93.024
@@ -961,47 +497,6 @@ User-4
 75.712 54.670 105.909 56.962
 226
 ATutor application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
 User-1
 00:07:13 01:34:37 01:27:24 87.024
 79.527
@@ -1053,47 +548,6 @@ User-4
 72.151 80.519 103.551 51.588
 227
 Decebo Application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks
-Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average Start 
-Time 
-End 
-Time Total Total in 
-Seconds Average
-MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS 
-:MS
-MM:SS: 
-MS Seconds Seconds MM:SS 
-:MS
-MM:SS: 
-MS
-MM:SS: 
-MS Seconds Seconds MM:SS: 
-MS
-MM:SS:
-MS
-MM:SS:
-MS Seconds Seconds
 User-1
 00:08:15 01:49:45 01:41:30 101.03
 89.529
@@ -1144,32 +598,8 @@ User-4
 00:06:31 01:11:26 01:04:55 64.055 00:04:26 01:19:15 01:14:49 74.049 00:09:23 01:45:19 01:35:56 95.056 00:05:12 00:51:34 00:46:22 46.022
 81.401 81.535 100.414 56.652
 228
-Section-5: Efficiency Criterion
+Efficiency Criterion
 eFront application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved?
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 01:33:55 93.055 Yes 00:43:02 43.002 Yes 02:19:55 139.055 Yes 01:01:56 61.056 Yes
 User-2 01:56:12 116.012 Yes 00:53:00 53.000 Yes 01:31:39 91.039 Yes 01:09:13 69.013 Yes
@@ -1178,31 +608,8 @@ User-4 01:07:00 67 Yes 00:53:47 53.047 Yes 02:21:12 141.012 Yes 01:13:17 73.017 
 Number of Tasks 4 Number of Tasks 2 Number of Tasks 4 Number of Tasks 2
 Efficiency 
 (Goals/Seconds) 0.00305 0.0107 0.0020 0.0076
+
 Moodle application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 01:51:07 111.007 Yes 00:33:00 45.000 Yes 01:58:55 118.055 Yes 01:01:00 61.000 Yes
 User-2 02:08:18 128.018 Yes 00:43:52 51.000 Yes 02:01:47 121.047 Yes 01:01:15 61.015 Yes
@@ -1213,30 +620,6 @@ Efficiency
 (Goals/Seconds) 0.0026 0.010976 0.0021 0.0077
 229
 Claronline application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 01:33:55 93.055 Yes 00:55:09 55.009 Yes 01:34:05 94.005 Yes 00:40:02 40.002 Yes
 User-2 01:56:12 116.012 Yes 00:42:53 42.053 Yes 01:42:55 102.055 Yes 00:41:43 41.043 Yes
@@ -1246,30 +629,6 @@ Number of Tasks 4 Number of Tasks 2 Number of Tasks 4 Number of Tasks 2
 Efficiency 
 (Goals/Seconds) 0.0033 0.0115 0.0024 0.0119
 Forma application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 02:34:14 154.014 Yes 01:15:11 75.011 Yes 01:44:00 104 Yes 00:45:02 45.002 Yes
 User-2 02:33:32 153.032 Yes 01:10:56 70.56 Yes 01:52:50 112.05 Yes 00:47:45 47.045 Yes
@@ -1280,30 +639,6 @@ Efficiency
 (Goals/Seconds) 0.0018 0.0075 0.0022 0.0105
 230
 ATutor application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 02:16:19 136.019 Yes 01:05:18 65.018 Yes 01:33:02 93.002 Yes 00:45:07 45.007 Yes
 User-2 02:15:33 135.033 Yes 01:07:02 67.002 Yes 01:52:46 112.046 Yes 00:48:48 48.048 Yes
@@ -1313,30 +648,6 @@ Number of Tasks 4 Number of Tasks 2 Number of Tasks 4 Number of Tasks 2
 Efficiency 
 (Goals/Seconds) 0.0019 0.0076 0.0023 0.0103
 Decebo application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 02:03:02 123.002 Yes 01:22:36 82.036 Yes 01:34:05 94.005 Yes 00:44:05 44.005 Yes
 User-2 02:29:16 149.016 Yes 01:11:20 71.02 Yes 01:53:49 113.049 Yes 00:47:46 47.046 Yes
@@ -1348,30 +659,6 @@ Efficiency
 231
 Section-6: Effectiveness Criterion
 eFront application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 01:43:53 103.053 Yes 00:43:02 43.002 Yes 02:19:55 139.055 Yes 01:01:56 61.056 Yes
 User-2 01:59:40 118.04 Yes 00:53:00 53.000 Yes 01:31:39 91.039 Yes 01:09:13 69.013 Yes
@@ -1381,30 +668,6 @@ Number of Tasks 4 Number of Tasks 2 Number of Tasks 4 Number of Tasks 2
 Effectiveness (Success 
 rate) 0.96875 0.6875 1.000 0.93750
 Moodle application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 01:51:07 111.007 Yes 00:33:00 33.000 Yes 01:58:55 118.055 Yes 01:01:00 61.000 Yes
 User-2 02:08:18 128.018 Yes 00:43:52 43.052 Yes 02:01:47 121.047 Yes 01:01:15 61.015 Yes
@@ -1415,30 +678,6 @@ Effectiveness
 (Success rate) 1.000 0.84375 1.000 1.000
 232
 Claronline application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved?
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 01:33:55 93.055 Yes 00:55:09 55.009 Yes 01:34:05 94.005 Yes 00:40:02 40.002 Yes
 User-2 01:56:12 116.012 Yes 00:42:53 42.053 Yes 01:42:55 102.055 Yes 00:41:43 41.043 Yes
@@ -1448,30 +687,6 @@ Number of Tasks 4 Number of Tasks 2 Number of Tasks 4 Number of Tasks 2
 Effectiveness 
 (Success rate) 0.90625 0.375 1.000 1.000
 Forma application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 02:34:14 154.014 Yes 01:15:11 75.011 Yes 01:44:00 104 Yes 00:45:02 45.002 Yes
 User-2 02:33:32 153.032 Yes 01:10:56 70.56 Yes 01:52:50 112.05 Yes 00:47:45 47.045 Yes
@@ -1482,31 +697,6 @@ Effectiveness
 (Success rate) 0.96875 0.6875 0.90625 0.9375
 233
 ATutor application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration 
-Duration 
-in 
-seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration 
-Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
 MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 02:16:19 136.019 Yes 01:05:18 65.018 Yes 01:33:02 93.002 Yes 00:45:07 45.007 Yes
 User-2 02:51:33 171.033 Yes 01:07:02 67.002 Yes 01:52:46 112.046 Yes 00:48:48 48.048 Yes
@@ -1516,29 +706,6 @@ Number of Tasks 4 Number of Tasks 2 Number of Tasks 4 Number of Tasks 2
 Effectiveness 
 (Success rate) 0.9375 0.6875 0.90625 0.9375
 Decebo application
-Lecturer Student Administrative IT Officer
-Users 
-Tasks Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-Duration Duration 
-in seconds
-Is the Task 
-achieved? 
-(Yes/No)
-MM:SS: 
 MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds MM:SS: MS Seconds
 User-1 02:03:02 123.002 Yes 01:22:36 82.036 Yes 01:34:05 94.005 Yes 00:44:05 00:44:05 Yes
 User-2 02:29:16 149.016 Yes 01:11:20 71.02 Yes 01:53:49 113.049 Yes 00:47:46 00:47:46 Yes
